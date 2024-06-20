@@ -1,4 +1,7 @@
-- 👋 Hey! My name is Darren Lin and I'm a computer engineering major at UC Santa Cruz.
-- 💻 I’m interested in the intersection between computers/software and hardware, but more specifically how they communicate with one another.
-- 📩 How to reach me at darrenhlin02@gmail.com
-- 🙂 If you would like to know more about me, check out my personal website! https://darren-lin.github.io/home/
+## 👋 Hello! Welcome to my GitHub. I'm Darren.
+
+If you’d like to get in touch, email me at darrenhlin02@gmail.com
+
+Linkedin: https://www.linkedin.com/in/lin-darren/
+
+Website: https://darren-lin.github.io/home/
